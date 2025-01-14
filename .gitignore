@@ -1,0 +1,19 @@
+# Node modules
+node_modules
+
+# Compiled JavaScript
+*.js
+*.js.map
+
+# Compiled JavaScript
+*tasks.json
+
+# TypeScript cache
+*.tsbuildinfo
+
+# OS and editor files
+.DS_Store
+*.log
+.idea/
+.vscode/
+Thumbs.db
